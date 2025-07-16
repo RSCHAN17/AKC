@@ -1,5 +1,5 @@
-# AKC
---Day to day SQL used and taught to doctors
+# Daily
+--Day to day SQL used for patient data collection
 USE ProductionOfflineReportingViewsGB;
 with DT2 as(
 select
