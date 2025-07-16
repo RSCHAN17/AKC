@@ -1,4 +1,5 @@
---- AKC Rate study
+# Rate Study
+-- AKC Rate study
 USE ProductionOfflineReportingViewsGB;
 with table_1 as (
 select 
